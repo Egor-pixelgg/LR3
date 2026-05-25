@@ -1,0 +1,7 @@
+﻿Change Dir: 'C:/Users/egor/CLionProjects/lr3/cmake-build-debug'
+
+Run Build Command(s): "D:/Clion/CLion 2025.3.2/bin/ninja/win/x64/ninja.exe" -v lr3
+[1/2] D:\MySys2\ucrt64\bin\c++.exe   -g -std=gnu++20 -fdiagnostics-color=always -MD -MT CMakeFiles/lr3.dir/main.cpp.obj -MF CMakeFiles\lr3.dir\main.cpp.obj.d -o CMakeFiles/lr3.dir/main.cpp.obj -c C:/Users/egor/CLionProjects/lr3/main.cpp
+FAILED: CMakeFiles/lab3.dir/main.cpp.obj 
+D:\MySys2\ucrt64\bin\c++.exe   -g -std=gnu++20 -fdiagnostics-color=always -MD -MT CMakeFiles/lr3.dir/main.cpp.obj -MF CMakeFiles\lr3.dir\main.cpp.obj.d -o CMakeFiles/lr3.dir/main.cpp.obj -c C:/Users/egor/CLionProjects/lr3/main.cpp
+ninja: build stopped: subcommand failed.
